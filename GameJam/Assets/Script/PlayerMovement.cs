@@ -33,6 +33,4 @@ public class PlayerMovement : MonoBehaviour
         _moveDirection.y -= 2;
         mycharacter.Move(_moveDirection * Time.deltaTime);
     }
-   
-
 }

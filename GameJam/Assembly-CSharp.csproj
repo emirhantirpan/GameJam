@@ -721,14 +721,8 @@
     <Reference Include="Unity.EditorCoroutines.Editor">
         <HintPath>C:\Users\emirh\OneDrive\Belgeler\GitHub\GameJam\GameJam\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Cinemachine">
-        <HintPath>C:\Users\emirh\OneDrive\Belgeler\GitHub\GameJam\GameJam\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Services.Core.Analytics">
         <HintPath>C:\Users\emirh\OneDrive\Belgeler\GitHub\GameJam\GameJam\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-        <HintPath>C:\Users\emirh\OneDrive\Belgeler\GitHub\GameJam\GameJam\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
         <HintPath>C:\Users\emirh\OneDrive\Belgeler\GitHub\GameJam\GameJam\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
